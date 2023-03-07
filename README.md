@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Assetoni03.
 - 👀 I’m interested in web development , java development.
-- 🌱 I’m currently learning Java, HTML5, CSS3, C++, JavaScript, Python.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python.
 - 💞️ I’m looking to collaborate on with projects related to the languages I am learning.
 - 📫 How to reach me- asetoni03@mail.ru
